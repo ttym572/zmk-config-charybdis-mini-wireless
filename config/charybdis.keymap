@@ -29,7 +29,6 @@
 &mo 5    &kp Z             &kp X             &kp C          &kp V               &kp B    &kp N  &kp M               &kp COMMA      &kp DOT            &kp FSLH              &mo 5
                                              &kp LGUI       &kp SPACE           &mo 1    &mo 2  &kp RET
             >;
-            trackball-bindings = <&tmv_coarse>;
         };
 
         NAV {
